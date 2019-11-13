@@ -1,0 +1,11 @@
+H:\epam\Task_1_MergeSort\bin\Debug\netcoreapp3.0\Task_1_MergeSort.exe
+H:\epam\Task_1_MergeSort\bin\Debug\netcoreapp3.0\Task_1_MergeSort.deps.json
+H:\epam\Task_1_MergeSort\bin\Debug\netcoreapp3.0\Task_1_MergeSort.runtimeconfig.json
+H:\epam\Task_1_MergeSort\bin\Debug\netcoreapp3.0\Task_1_MergeSort.runtimeconfig.dev.json
+H:\epam\Task_1_MergeSort\bin\Debug\netcoreapp3.0\Task_1_MergeSort.dll
+H:\epam\Task_1_MergeSort\bin\Debug\netcoreapp3.0\Task_1_MergeSort.pdb
+H:\epam\Task_1_MergeSort\obj\Debug\netcoreapp3.0\Task_1_MergeSort.csprojAssemblyReference.cache
+H:\epam\Task_1_MergeSort\obj\Debug\netcoreapp3.0\Task_1_MergeSort.AssemblyInfoInputs.cache
+H:\epam\Task_1_MergeSort\obj\Debug\netcoreapp3.0\Task_1_MergeSort.AssemblyInfo.cs
+H:\epam\Task_1_MergeSort\obj\Debug\netcoreapp3.0\Task_1_MergeSort.dll
+H:\epam\Task_1_MergeSort\obj\Debug\netcoreapp3.0\Task_1_MergeSort.pdb
