@@ -1,0 +1,11 @@
+H:\epam\Task_2_FindNextBiggerNumber\bin\Debug\netcoreapp3.0\Task_2_FindNextBiggerNumber.exe
+H:\epam\Task_2_FindNextBiggerNumber\bin\Debug\netcoreapp3.0\Task_2_FindNextBiggerNumber.deps.json
+H:\epam\Task_2_FindNextBiggerNumber\bin\Debug\netcoreapp3.0\Task_2_FindNextBiggerNumber.runtimeconfig.json
+H:\epam\Task_2_FindNextBiggerNumber\bin\Debug\netcoreapp3.0\Task_2_FindNextBiggerNumber.runtimeconfig.dev.json
+H:\epam\Task_2_FindNextBiggerNumber\bin\Debug\netcoreapp3.0\Task_2_FindNextBiggerNumber.dll
+H:\epam\Task_2_FindNextBiggerNumber\bin\Debug\netcoreapp3.0\Task_2_FindNextBiggerNumber.pdb
+H:\epam\Task_2_FindNextBiggerNumber\obj\Debug\netcoreapp3.0\Task_2_FindNextBiggerNumber.csprojAssemblyReference.cache
+H:\epam\Task_2_FindNextBiggerNumber\obj\Debug\netcoreapp3.0\Task_2_FindNextBiggerNumber.AssemblyInfoInputs.cache
+H:\epam\Task_2_FindNextBiggerNumber\obj\Debug\netcoreapp3.0\Task_2_FindNextBiggerNumber.AssemblyInfo.cs
+H:\epam\Task_2_FindNextBiggerNumber\obj\Debug\netcoreapp3.0\Task_2_FindNextBiggerNumber.dll
+H:\epam\Task_2_FindNextBiggerNumber\obj\Debug\netcoreapp3.0\Task_2_FindNextBiggerNumber.pdb

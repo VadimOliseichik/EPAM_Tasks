@@ -1,0 +1,13 @@
+H:\epam\Task_1_InsertNumber\bin\Debug\netcoreapp3.0\Task_1_InsertNumber.exe
+H:\epam\Task_1_InsertNumber\bin\Debug\netcoreapp3.0\Task_1_InsertNumber.deps.json
+H:\epam\Task_1_InsertNumber\bin\Debug\netcoreapp3.0\Task_1_InsertNumber.runtimeconfig.json
+H:\epam\Task_1_InsertNumber\bin\Debug\netcoreapp3.0\Task_1_InsertNumber.runtimeconfig.dev.json
+H:\epam\Task_1_InsertNumber\bin\Debug\netcoreapp3.0\Task_1_InsertNumber.dll
+H:\epam\Task_1_InsertNumber\bin\Debug\netcoreapp3.0\Task_1_InsertNumber.pdb
+H:\epam\Task_1_InsertNumber\obj\Debug\netcoreapp3.0\Task_1_InsertNumber.csprojAssemblyReference.cache
+H:\epam\Task_1_InsertNumber\obj\Debug\netcoreapp3.0\Task_1_InsertNumber.AssemblyInfoInputs.cache
+H:\epam\Task_1_InsertNumber\obj\Debug\netcoreapp3.0\Task_1_InsertNumber.AssemblyInfo.cs
+H:\epam\Task_1_InsertNumber\obj\Debug\netcoreapp3.0\Task_1_InsertNumber.dll
+H:\epam\Task_1_InsertNumber\obj\Debug\netcoreapp3.0\Task_1_InsertNumber.pdb
+H:\epam\Task_1_InsertNumber\bin\Debug\netcoreapp3.0\nunit.framework.dll
+H:\epam\Task_1_InsertNumber\obj\Debug\netcoreapp3.0\Task_1_InsertNumber.csproj.CopyComplete

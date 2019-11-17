@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29403.142
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Task_2_FindNextBiggerNumber", "Task_2_FindNextBiggerNumber.csproj", "{B6181AB4-939D-45CB-847E-DE7B85416806}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MSUnitTest_Task_2_FindNextBiggerNumber", "..\MSUnitTest_Task_2_FindNextBiggerNumber\MSUnitTest_Task_2_FindNextBiggerNumber.csproj", "{4F828BBB-E55F-4586-A920-6F7D7B488C3B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NUnitTestTask_2_FindNextBiggerNumber", "..\NUnitTestTask_2_FindNextBiggerNumber\NUnitTestTask_2_FindNextBiggerNumber.csproj", "{0E4BBB1E-DA97-41C5-8732-03CCEE9E4662}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B6181AB4-939D-45CB-847E-DE7B85416806}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6181AB4-939D-45CB-847E-DE7B85416806}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6181AB4-939D-45CB-847E-DE7B85416806}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6181AB4-939D-45CB-847E-DE7B85416806}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F828BBB-E55F-4586-A920-6F7D7B488C3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F828BBB-E55F-4586-A920-6F7D7B488C3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F828BBB-E55F-4586-A920-6F7D7B488C3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F828BBB-E55F-4586-A920-6F7D7B488C3B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E4BBB1E-DA97-41C5-8732-03CCEE9E4662}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E4BBB1E-DA97-41C5-8732-03CCEE9E4662}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E4BBB1E-DA97-41C5-8732-03CCEE9E4662}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E4BBB1E-DA97-41C5-8732-03CCEE9E4662}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E6EB84C1-A7BA-4818-8879-BDA038497FDA}
+	EndGlobalSection
+EndGlobal

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "H:\\epam\\Task_2_QuickSort\\Task_2_QuickSort.csproj": {}
+    "H:\\epam\\EPAM_Tasks\\NET.W.2019.Oliseichik.01\\QuickSort_Task_2\\Task_2_QuickSort\\Task_2_QuickSort.csproj": {}
   },
   "projects": {
-    "H:\\epam\\Task_2_QuickSort\\Task_2_QuickSort.csproj": {
+    "H:\\epam\\EPAM_Tasks\\NET.W.2019.Oliseichik.01\\QuickSort_Task_2\\Task_2_QuickSort\\Task_2_QuickSort.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "H:\\epam\\Task_2_QuickSort\\Task_2_QuickSort.csproj",
+        "projectUniqueName": "H:\\epam\\EPAM_Tasks\\NET.W.2019.Oliseichik.01\\QuickSort_Task_2\\Task_2_QuickSort\\Task_2_QuickSort.csproj",
         "projectName": "Task_2_QuickSort",
-        "projectPath": "H:\\epam\\Task_2_QuickSort\\Task_2_QuickSort.csproj",
+        "projectPath": "H:\\epam\\EPAM_Tasks\\NET.W.2019.Oliseichik.01\\QuickSort_Task_2\\Task_2_QuickSort\\Task_2_QuickSort.csproj",
         "packagesPath": "C:\\Users\\Vadim\\.nuget\\packages\\",
-        "outputPath": "H:\\epam\\Task_2_QuickSort\\obj\\",
+        "outputPath": "H:\\epam\\EPAM_Tasks\\NET.W.2019.Oliseichik.01\\QuickSort_Task_2\\Task_2_QuickSort\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Vadim\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -9,3 +9,14 @@ H:\epam\Task_2_QuickSort\obj\Debug\netcoreapp3.0\Task_2_QuickSort.AssemblyInfoIn
 H:\epam\Task_2_QuickSort\obj\Debug\netcoreapp3.0\Task_2_QuickSort.AssemblyInfo.cs
 H:\epam\Task_2_QuickSort\obj\Debug\netcoreapp3.0\Task_2_QuickSort.dll
 H:\epam\Task_2_QuickSort\obj\Debug\netcoreapp3.0\Task_2_QuickSort.pdb
+H:\epam\EPAM_Tasks\NET.W.2019.Oliseichik.01\QuickSort_Task_2\Task_2_QuickSort\bin\Debug\netcoreapp3.0\Task_2_QuickSort.exe
+H:\epam\EPAM_Tasks\NET.W.2019.Oliseichik.01\QuickSort_Task_2\Task_2_QuickSort\bin\Debug\netcoreapp3.0\Task_2_QuickSort.deps.json
+H:\epam\EPAM_Tasks\NET.W.2019.Oliseichik.01\QuickSort_Task_2\Task_2_QuickSort\bin\Debug\netcoreapp3.0\Task_2_QuickSort.runtimeconfig.json
+H:\epam\EPAM_Tasks\NET.W.2019.Oliseichik.01\QuickSort_Task_2\Task_2_QuickSort\bin\Debug\netcoreapp3.0\Task_2_QuickSort.runtimeconfig.dev.json
+H:\epam\EPAM_Tasks\NET.W.2019.Oliseichik.01\QuickSort_Task_2\Task_2_QuickSort\bin\Debug\netcoreapp3.0\Task_2_QuickSort.dll
+H:\epam\EPAM_Tasks\NET.W.2019.Oliseichik.01\QuickSort_Task_2\Task_2_QuickSort\bin\Debug\netcoreapp3.0\Task_2_QuickSort.pdb
+H:\epam\EPAM_Tasks\NET.W.2019.Oliseichik.01\QuickSort_Task_2\Task_2_QuickSort\obj\Debug\netcoreapp3.0\Task_2_QuickSort.csprojAssemblyReference.cache
+H:\epam\EPAM_Tasks\NET.W.2019.Oliseichik.01\QuickSort_Task_2\Task_2_QuickSort\obj\Debug\netcoreapp3.0\Task_2_QuickSort.AssemblyInfoInputs.cache
+H:\epam\EPAM_Tasks\NET.W.2019.Oliseichik.01\QuickSort_Task_2\Task_2_QuickSort\obj\Debug\netcoreapp3.0\Task_2_QuickSort.AssemblyInfo.cs
+H:\epam\EPAM_Tasks\NET.W.2019.Oliseichik.01\QuickSort_Task_2\Task_2_QuickSort\obj\Debug\netcoreapp3.0\Task_2_QuickSort.dll
+H:\epam\EPAM_Tasks\NET.W.2019.Oliseichik.01\QuickSort_Task_2\Task_2_QuickSort\obj\Debug\netcoreapp3.0\Task_2_QuickSort.pdb

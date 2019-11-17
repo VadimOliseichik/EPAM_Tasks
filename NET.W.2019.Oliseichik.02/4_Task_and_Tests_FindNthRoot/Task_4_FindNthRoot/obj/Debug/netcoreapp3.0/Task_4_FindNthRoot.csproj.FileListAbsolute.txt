@@ -1,0 +1,11 @@
+H:\epam\Task_4_FindNthRoot\bin\Debug\netcoreapp3.0\Task_4_FindNthRoot.exe
+H:\epam\Task_4_FindNthRoot\bin\Debug\netcoreapp3.0\Task_4_FindNthRoot.deps.json
+H:\epam\Task_4_FindNthRoot\bin\Debug\netcoreapp3.0\Task_4_FindNthRoot.runtimeconfig.json
+H:\epam\Task_4_FindNthRoot\bin\Debug\netcoreapp3.0\Task_4_FindNthRoot.runtimeconfig.dev.json
+H:\epam\Task_4_FindNthRoot\bin\Debug\netcoreapp3.0\Task_4_FindNthRoot.dll
+H:\epam\Task_4_FindNthRoot\bin\Debug\netcoreapp3.0\Task_4_FindNthRoot.pdb
+H:\epam\Task_4_FindNthRoot\obj\Debug\netcoreapp3.0\Task_4_FindNthRoot.AssemblyInfoInputs.cache
+H:\epam\Task_4_FindNthRoot\obj\Debug\netcoreapp3.0\Task_4_FindNthRoot.AssemblyInfo.cs
+H:\epam\Task_4_FindNthRoot\obj\Debug\netcoreapp3.0\Task_4_FindNthRoot.dll
+H:\epam\Task_4_FindNthRoot\obj\Debug\netcoreapp3.0\Task_4_FindNthRoot.pdb
+H:\epam\Task_4_FindNthRoot\obj\Debug\netcoreapp3.0\Task_4_FindNthRoot.csprojAssemblyReference.cache

@@ -1,0 +1,11 @@
+H:\epam\Task_3_FilterDigit\bin\Debug\netcoreapp3.0\Task_3_FilterDigit.exe
+H:\epam\Task_3_FilterDigit\bin\Debug\netcoreapp3.0\Task_3_FilterDigit.deps.json
+H:\epam\Task_3_FilterDigit\bin\Debug\netcoreapp3.0\Task_3_FilterDigit.runtimeconfig.json
+H:\epam\Task_3_FilterDigit\bin\Debug\netcoreapp3.0\Task_3_FilterDigit.runtimeconfig.dev.json
+H:\epam\Task_3_FilterDigit\bin\Debug\netcoreapp3.0\Task_3_FilterDigit.dll
+H:\epam\Task_3_FilterDigit\bin\Debug\netcoreapp3.0\Task_3_FilterDigit.pdb
+H:\epam\Task_3_FilterDigit\obj\Debug\netcoreapp3.0\Task_3_FilterDigit.AssemblyInfoInputs.cache
+H:\epam\Task_3_FilterDigit\obj\Debug\netcoreapp3.0\Task_3_FilterDigit.AssemblyInfo.cs
+H:\epam\Task_3_FilterDigit\obj\Debug\netcoreapp3.0\Task_3_FilterDigit.dll
+H:\epam\Task_3_FilterDigit\obj\Debug\netcoreapp3.0\Task_3_FilterDigit.pdb
+H:\epam\Task_3_FilterDigit\obj\Debug\netcoreapp3.0\Task_3_FilterDigit.csprojAssemblyReference.cache

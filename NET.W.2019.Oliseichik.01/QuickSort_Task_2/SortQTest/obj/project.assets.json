@@ -6894,11 +6894,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "H:\\epam\\SortQTest\\SortQTest.csproj",
+      "projectUniqueName": "H:\\epam\\EPAM_Tasks\\NET.W.2019.Oliseichik.01\\QuickSort_Task_2\\SortQTest\\SortQTest.csproj",
       "projectName": "SortQTest",
-      "projectPath": "H:\\epam\\SortQTest\\SortQTest.csproj",
+      "projectPath": "H:\\epam\\EPAM_Tasks\\NET.W.2019.Oliseichik.01\\QuickSort_Task_2\\SortQTest\\SortQTest.csproj",
       "packagesPath": "C:\\Users\\Vadim\\.nuget\\packages\\",
-      "outputPath": "H:\\epam\\SortQTest\\obj\\",
+      "outputPath": "H:\\epam\\EPAM_Tasks\\NET.W.2019.Oliseichik.01\\QuickSort_Task_2\\SortQTest\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Vadim\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -6914,8 +6914,8 @@
       "frameworks": {
         "netcoreapp3.0": {
           "projectReferences": {
-            "H:\\epam\\Task_2_QuickSort\\Task_2_QuickSort.csproj": {
-              "projectPath": "H:\\epam\\Task_2_QuickSort\\Task_2_QuickSort.csproj"
+            "H:\\epam\\EPAM_Tasks\\NET.W.2019.Oliseichik.01\\QuickSort_Task_2\\Task_2_QuickSort\\Task_2_QuickSort.csproj": {
+              "projectPath": "H:\\epam\\EPAM_Tasks\\NET.W.2019.Oliseichik.01\\QuickSort_Task_2\\Task_2_QuickSort\\Task_2_QuickSort.csproj"
             }
           }
         }
