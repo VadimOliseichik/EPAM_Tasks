@@ -1,0 +1,11 @@
+H:\epam\Task_1_GCD\bin\Debug\netcoreapp3.0\Task_1_GCD.exe
+H:\epam\Task_1_GCD\bin\Debug\netcoreapp3.0\Task_1_GCD.deps.json
+H:\epam\Task_1_GCD\bin\Debug\netcoreapp3.0\Task_1_GCD.runtimeconfig.json
+H:\epam\Task_1_GCD\bin\Debug\netcoreapp3.0\Task_1_GCD.runtimeconfig.dev.json
+H:\epam\Task_1_GCD\bin\Debug\netcoreapp3.0\Task_1_GCD.dll
+H:\epam\Task_1_GCD\bin\Debug\netcoreapp3.0\Task_1_GCD.pdb
+H:\epam\Task_1_GCD\obj\Debug\netcoreapp3.0\Task_1_GCD.csprojAssemblyReference.cache
+H:\epam\Task_1_GCD\obj\Debug\netcoreapp3.0\Task_1_GCD.AssemblyInfoInputs.cache
+H:\epam\Task_1_GCD\obj\Debug\netcoreapp3.0\Task_1_GCD.AssemblyInfo.cs
+H:\epam\Task_1_GCD\obj\Debug\netcoreapp3.0\Task_1_GCD.dll
+H:\epam\Task_1_GCD\obj\Debug\netcoreapp3.0\Task_1_GCD.pdb

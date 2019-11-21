@@ -1,0 +1,11 @@
+H:\epam\Task_2_DoubleToBinaryConvert\bin\Debug\netcoreapp3.0\Task_2_DoubleToBinaryConvert.exe
+H:\epam\Task_2_DoubleToBinaryConvert\bin\Debug\netcoreapp3.0\Task_2_DoubleToBinaryConvert.deps.json
+H:\epam\Task_2_DoubleToBinaryConvert\bin\Debug\netcoreapp3.0\Task_2_DoubleToBinaryConvert.runtimeconfig.json
+H:\epam\Task_2_DoubleToBinaryConvert\bin\Debug\netcoreapp3.0\Task_2_DoubleToBinaryConvert.runtimeconfig.dev.json
+H:\epam\Task_2_DoubleToBinaryConvert\bin\Debug\netcoreapp3.0\Task_2_DoubleToBinaryConvert.dll
+H:\epam\Task_2_DoubleToBinaryConvert\bin\Debug\netcoreapp3.0\Task_2_DoubleToBinaryConvert.pdb
+H:\epam\Task_2_DoubleToBinaryConvert\obj\Debug\netcoreapp3.0\Task_2_DoubleToBinaryConvert.AssemblyInfoInputs.cache
+H:\epam\Task_2_DoubleToBinaryConvert\obj\Debug\netcoreapp3.0\Task_2_DoubleToBinaryConvert.AssemblyInfo.cs
+H:\epam\Task_2_DoubleToBinaryConvert\obj\Debug\netcoreapp3.0\Task_2_DoubleToBinaryConvert.dll
+H:\epam\Task_2_DoubleToBinaryConvert\obj\Debug\netcoreapp3.0\Task_2_DoubleToBinaryConvert.pdb
+H:\epam\Task_2_DoubleToBinaryConvert\obj\Debug\netcoreapp3.0\Task_2_DoubleToBinaryConvert.csprojAssemblyReference.cache

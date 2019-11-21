@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "H:\\epam\\NUnitTestTask_2_FindNextBiggerNumber\\NUnitTestTask_2_FindNextBiggerNumber.csproj": {}
+    "H:\\epam\\EPAM_Tasks\\NET.W.2019.Oliseichik.02\\2_Task_and_Tests_FindNextBiggerNumber\\NUnitTestTask_2_FindNextBiggerNumber\\NUnitTestTask_2_FindNextBiggerNumber.csproj": {}
   },
   "projects": {
-    "H:\\epam\\NUnitTestTask_2_FindNextBiggerNumber\\NUnitTestTask_2_FindNextBiggerNumber.csproj": {
+    "H:\\epam\\EPAM_Tasks\\NET.W.2019.Oliseichik.02\\2_Task_and_Tests_FindNextBiggerNumber\\NUnitTestTask_2_FindNextBiggerNumber\\NUnitTestTask_2_FindNextBiggerNumber.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "H:\\epam\\NUnitTestTask_2_FindNextBiggerNumber\\NUnitTestTask_2_FindNextBiggerNumber.csproj",
+        "projectUniqueName": "H:\\epam\\EPAM_Tasks\\NET.W.2019.Oliseichik.02\\2_Task_and_Tests_FindNextBiggerNumber\\NUnitTestTask_2_FindNextBiggerNumber\\NUnitTestTask_2_FindNextBiggerNumber.csproj",
         "projectName": "NUnitTestTask_2_FindNextBiggerNumber",
-        "projectPath": "H:\\epam\\NUnitTestTask_2_FindNextBiggerNumber\\NUnitTestTask_2_FindNextBiggerNumber.csproj",
+        "projectPath": "H:\\epam\\EPAM_Tasks\\NET.W.2019.Oliseichik.02\\2_Task_and_Tests_FindNextBiggerNumber\\NUnitTestTask_2_FindNextBiggerNumber\\NUnitTestTask_2_FindNextBiggerNumber.csproj",
         "packagesPath": "C:\\Users\\Vadim\\.nuget\\packages\\",
-        "outputPath": "H:\\epam\\NUnitTestTask_2_FindNextBiggerNumber\\obj\\",
+        "outputPath": "H:\\epam\\EPAM_Tasks\\NET.W.2019.Oliseichik.02\\2_Task_and_Tests_FindNextBiggerNumber\\NUnitTestTask_2_FindNextBiggerNumber\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Vadim\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -27,8 +27,8 @@
         "frameworks": {
           "netcoreapp3.0": {
             "projectReferences": {
-              "H:\\epam\\Task_2_FindNextBiggerNumber\\Task_2_FindNextBiggerNumber.csproj": {
-                "projectPath": "H:\\epam\\Task_2_FindNextBiggerNumber\\Task_2_FindNextBiggerNumber.csproj"
+              "H:\\epam\\EPAM_Tasks\\NET.W.2019.Oliseichik.02\\2_Task_and_Tests_FindNextBiggerNumber\\Task_2_FindNextBiggerNumber\\Task_2_FindNextBiggerNumber.csproj": {
+                "projectPath": "H:\\epam\\EPAM_Tasks\\NET.W.2019.Oliseichik.02\\2_Task_and_Tests_FindNextBiggerNumber\\Task_2_FindNextBiggerNumber\\Task_2_FindNextBiggerNumber.csproj"
               }
             }
           }
@@ -74,14 +74,14 @@
         }
       }
     },
-    "H:\\epam\\Task_2_FindNextBiggerNumber\\Task_2_FindNextBiggerNumber.csproj": {
+    "H:\\epam\\EPAM_Tasks\\NET.W.2019.Oliseichik.02\\2_Task_and_Tests_FindNextBiggerNumber\\Task_2_FindNextBiggerNumber\\Task_2_FindNextBiggerNumber.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "H:\\epam\\Task_2_FindNextBiggerNumber\\Task_2_FindNextBiggerNumber.csproj",
+        "projectUniqueName": "H:\\epam\\EPAM_Tasks\\NET.W.2019.Oliseichik.02\\2_Task_and_Tests_FindNextBiggerNumber\\Task_2_FindNextBiggerNumber\\Task_2_FindNextBiggerNumber.csproj",
         "projectName": "Task_2_FindNextBiggerNumber",
-        "projectPath": "H:\\epam\\Task_2_FindNextBiggerNumber\\Task_2_FindNextBiggerNumber.csproj",
+        "projectPath": "H:\\epam\\EPAM_Tasks\\NET.W.2019.Oliseichik.02\\2_Task_and_Tests_FindNextBiggerNumber\\Task_2_FindNextBiggerNumber\\Task_2_FindNextBiggerNumber.csproj",
         "packagesPath": "C:\\Users\\Vadim\\.nuget\\packages\\",
-        "outputPath": "H:\\epam\\Task_2_FindNextBiggerNumber\\obj\\",
+        "outputPath": "H:\\epam\\EPAM_Tasks\\NET.W.2019.Oliseichik.02\\2_Task_and_Tests_FindNextBiggerNumber\\Task_2_FindNextBiggerNumber\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Vadim\\AppData\\Roaming\\NuGet\\NuGet.Config",

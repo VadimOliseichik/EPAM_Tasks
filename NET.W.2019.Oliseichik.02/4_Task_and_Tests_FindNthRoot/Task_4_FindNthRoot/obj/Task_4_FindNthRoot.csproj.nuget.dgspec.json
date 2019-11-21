@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "H:\\epam\\Task_4_FindNthRoot\\Task_4_FindNthRoot.csproj": {}
+    "H:\\epam\\EPAM_Tasks\\NET.W.2019.Oliseichik.02\\4_Task_and_Tests_FindNthRoot\\Task_4_FindNthRoot\\Task_4_FindNthRoot.csproj": {}
   },
   "projects": {
-    "H:\\epam\\Task_4_FindNthRoot\\Task_4_FindNthRoot.csproj": {
+    "H:\\epam\\EPAM_Tasks\\NET.W.2019.Oliseichik.02\\4_Task_and_Tests_FindNthRoot\\Task_4_FindNthRoot\\Task_4_FindNthRoot.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "H:\\epam\\Task_4_FindNthRoot\\Task_4_FindNthRoot.csproj",
+        "projectUniqueName": "H:\\epam\\EPAM_Tasks\\NET.W.2019.Oliseichik.02\\4_Task_and_Tests_FindNthRoot\\Task_4_FindNthRoot\\Task_4_FindNthRoot.csproj",
         "projectName": "Task_4_FindNthRoot",
-        "projectPath": "H:\\epam\\Task_4_FindNthRoot\\Task_4_FindNthRoot.csproj",
+        "projectPath": "H:\\epam\\EPAM_Tasks\\NET.W.2019.Oliseichik.02\\4_Task_and_Tests_FindNthRoot\\Task_4_FindNthRoot\\Task_4_FindNthRoot.csproj",
         "packagesPath": "C:\\Users\\Vadim\\.nuget\\packages\\",
-        "outputPath": "H:\\epam\\Task_4_FindNthRoot\\obj\\",
+        "outputPath": "H:\\epam\\EPAM_Tasks\\NET.W.2019.Oliseichik.02\\4_Task_and_Tests_FindNthRoot\\Task_4_FindNthRoot\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Vadim\\AppData\\Roaming\\NuGet\\NuGet.Config",
