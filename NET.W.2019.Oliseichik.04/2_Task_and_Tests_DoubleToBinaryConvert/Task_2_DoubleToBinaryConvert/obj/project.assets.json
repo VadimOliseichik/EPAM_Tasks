@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "H:\\epam\\Task_2_DoubleToBinaryConvert\\Task_2_DoubleToBinaryConvert.csproj",
+      "projectUniqueName": "H:\\epam\\EPAM_Tasks\\NET.W.2019.Oliseichik.04\\2_Task_and_Tests_DoubleToBinaryConvert\\Task_2_DoubleToBinaryConvert\\Task_2_DoubleToBinaryConvert.csproj",
       "projectName": "Task_2_DoubleToBinaryConvert",
-      "projectPath": "H:\\epam\\Task_2_DoubleToBinaryConvert\\Task_2_DoubleToBinaryConvert.csproj",
+      "projectPath": "H:\\epam\\EPAM_Tasks\\NET.W.2019.Oliseichik.04\\2_Task_and_Tests_DoubleToBinaryConvert\\Task_2_DoubleToBinaryConvert\\Task_2_DoubleToBinaryConvert.csproj",
       "packagesPath": "C:\\Users\\Vadim\\.nuget\\packages\\",
-      "outputPath": "H:\\epam\\Task_2_DoubleToBinaryConvert\\obj\\",
+      "outputPath": "H:\\epam\\EPAM_Tasks\\NET.W.2019.Oliseichik.04\\2_Task_and_Tests_DoubleToBinaryConvert\\Task_2_DoubleToBinaryConvert\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Vadim\\AppData\\Roaming\\NuGet\\NuGet.Config",

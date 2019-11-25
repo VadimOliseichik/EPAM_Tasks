@@ -1,0 +1,11 @@
+H:\epam\Task_1_PolynomialClass\bin\Debug\netcoreapp3.0\Task_1_PolynomialClass.exe
+H:\epam\Task_1_PolynomialClass\bin\Debug\netcoreapp3.0\Task_1_PolynomialClass.deps.json
+H:\epam\Task_1_PolynomialClass\bin\Debug\netcoreapp3.0\Task_1_PolynomialClass.runtimeconfig.json
+H:\epam\Task_1_PolynomialClass\bin\Debug\netcoreapp3.0\Task_1_PolynomialClass.runtimeconfig.dev.json
+H:\epam\Task_1_PolynomialClass\bin\Debug\netcoreapp3.0\Task_1_PolynomialClass.dll
+H:\epam\Task_1_PolynomialClass\bin\Debug\netcoreapp3.0\Task_1_PolynomialClass.pdb
+H:\epam\Task_1_PolynomialClass\obj\Debug\netcoreapp3.0\Task_1_PolynomialClass.csprojAssemblyReference.cache
+H:\epam\Task_1_PolynomialClass\obj\Debug\netcoreapp3.0\Task_1_PolynomialClass.AssemblyInfoInputs.cache
+H:\epam\Task_1_PolynomialClass\obj\Debug\netcoreapp3.0\Task_1_PolynomialClass.AssemblyInfo.cs
+H:\epam\Task_1_PolynomialClass\obj\Debug\netcoreapp3.0\Task_1_PolynomialClass.dll
+H:\epam\Task_1_PolynomialClass\obj\Debug\netcoreapp3.0\Task_1_PolynomialClass.pdb
