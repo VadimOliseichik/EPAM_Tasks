@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "H:\\epam\\Task_1_PolynomialClass.Tests\\Task_1_PolynomialClass.Tests.csproj": {}
+    "H:\\epam\\EPAM_Tasks\\NET.W.2019.Oliseichik.06\\1_Task_and_Tests_PolynomialClass\\Task_1_PolynomialClass.Tests\\Task_1_PolynomialClass.Tests.csproj": {}
   },
   "projects": {
-    "H:\\epam\\Task_1_PolynomialClass.Tests\\Task_1_PolynomialClass.Tests.csproj": {
+    "H:\\epam\\EPAM_Tasks\\NET.W.2019.Oliseichik.06\\1_Task_and_Tests_PolynomialClass\\Task_1_PolynomialClass.Tests\\Task_1_PolynomialClass.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "H:\\epam\\Task_1_PolynomialClass.Tests\\Task_1_PolynomialClass.Tests.csproj",
+        "projectUniqueName": "H:\\epam\\EPAM_Tasks\\NET.W.2019.Oliseichik.06\\1_Task_and_Tests_PolynomialClass\\Task_1_PolynomialClass.Tests\\Task_1_PolynomialClass.Tests.csproj",
         "projectName": "Task_1_PolynomialClass.Tests",
-        "projectPath": "H:\\epam\\Task_1_PolynomialClass.Tests\\Task_1_PolynomialClass.Tests.csproj",
+        "projectPath": "H:\\epam\\EPAM_Tasks\\NET.W.2019.Oliseichik.06\\1_Task_and_Tests_PolynomialClass\\Task_1_PolynomialClass.Tests\\Task_1_PolynomialClass.Tests.csproj",
         "packagesPath": "C:\\Users\\Vadim\\.nuget\\packages\\",
-        "outputPath": "H:\\epam\\Task_1_PolynomialClass.Tests\\obj\\",
+        "outputPath": "H:\\epam\\EPAM_Tasks\\NET.W.2019.Oliseichik.06\\1_Task_and_Tests_PolynomialClass\\Task_1_PolynomialClass.Tests\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Vadim\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -27,8 +27,8 @@
         "frameworks": {
           "netcoreapp3.0": {
             "projectReferences": {
-              "H:\\epam\\Task_1_PolynomialClass\\Task_1_PolynomialClass.csproj": {
-                "projectPath": "H:\\epam\\Task_1_PolynomialClass\\Task_1_PolynomialClass.csproj"
+              "H:\\epam\\EPAM_Tasks\\NET.W.2019.Oliseichik.06\\1_Task_and_Tests_PolynomialClass\\Task_1_PolynomialClass\\Task_1_PolynomialClass.csproj": {
+                "projectPath": "H:\\epam\\EPAM_Tasks\\NET.W.2019.Oliseichik.06\\1_Task_and_Tests_PolynomialClass\\Task_1_PolynomialClass\\Task_1_PolynomialClass.csproj"
               }
             }
           }
@@ -74,14 +74,14 @@
         }
       }
     },
-    "H:\\epam\\Task_1_PolynomialClass\\Task_1_PolynomialClass.csproj": {
+    "H:\\epam\\EPAM_Tasks\\NET.W.2019.Oliseichik.06\\1_Task_and_Tests_PolynomialClass\\Task_1_PolynomialClass\\Task_1_PolynomialClass.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "H:\\epam\\Task_1_PolynomialClass\\Task_1_PolynomialClass.csproj",
+        "projectUniqueName": "H:\\epam\\EPAM_Tasks\\NET.W.2019.Oliseichik.06\\1_Task_and_Tests_PolynomialClass\\Task_1_PolynomialClass\\Task_1_PolynomialClass.csproj",
         "projectName": "Task_1_PolynomialClass",
-        "projectPath": "H:\\epam\\Task_1_PolynomialClass\\Task_1_PolynomialClass.csproj",
+        "projectPath": "H:\\epam\\EPAM_Tasks\\NET.W.2019.Oliseichik.06\\1_Task_and_Tests_PolynomialClass\\Task_1_PolynomialClass\\Task_1_PolynomialClass.csproj",
         "packagesPath": "C:\\Users\\Vadim\\.nuget\\packages\\",
-        "outputPath": "H:\\epam\\Task_1_PolynomialClass\\obj\\",
+        "outputPath": "H:\\epam\\EPAM_Tasks\\NET.W.2019.Oliseichik.06\\1_Task_and_Tests_PolynomialClass\\Task_1_PolynomialClass\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Vadim\\AppData\\Roaming\\NuGet\\NuGet.Config",

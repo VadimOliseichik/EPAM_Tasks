@@ -1,0 +1,11 @@
+H:\epam\Task_2_BankScore\bin\Debug\netcoreapp3.0\Task_2_BankScore.exe
+H:\epam\Task_2_BankScore\bin\Debug\netcoreapp3.0\Task_2_BankScore.deps.json
+H:\epam\Task_2_BankScore\bin\Debug\netcoreapp3.0\Task_2_BankScore.runtimeconfig.json
+H:\epam\Task_2_BankScore\bin\Debug\netcoreapp3.0\Task_2_BankScore.runtimeconfig.dev.json
+H:\epam\Task_2_BankScore\bin\Debug\netcoreapp3.0\Task_2_BankScore.dll
+H:\epam\Task_2_BankScore\bin\Debug\netcoreapp3.0\Task_2_BankScore.pdb
+H:\epam\Task_2_BankScore\obj\Debug\netcoreapp3.0\Task_2_BankScore.csprojAssemblyReference.cache
+H:\epam\Task_2_BankScore\obj\Debug\netcoreapp3.0\Task_2_BankScore.AssemblyInfoInputs.cache
+H:\epam\Task_2_BankScore\obj\Debug\netcoreapp3.0\Task_2_BankScore.AssemblyInfo.cs
+H:\epam\Task_2_BankScore\obj\Debug\netcoreapp3.0\Task_2_BankScore.dll
+H:\epam\Task_2_BankScore\obj\Debug\netcoreapp3.0\Task_2_BankScore.pdb

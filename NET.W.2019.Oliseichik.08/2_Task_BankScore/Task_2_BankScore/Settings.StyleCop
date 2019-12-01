@@ -1,0 +1,5 @@
+<StyleCopSettings Version="105">
+  <GlobalSettings>
+    <StringProperty Name="LinkedSettingsFile">..\EPAM_Tasks\NET.W.2019.Oliseichik.06\1_Task_and_Tests_PolynomialClass\Task_1_PolynomialClass\Settings.StyleCop</StringProperty>
+  </GlobalSettings>
+</StyleCopSettings>

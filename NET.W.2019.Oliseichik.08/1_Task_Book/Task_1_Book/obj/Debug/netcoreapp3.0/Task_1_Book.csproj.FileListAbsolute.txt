@@ -1,0 +1,11 @@
+H:\epam\Task_1_Book\bin\Debug\netcoreapp3.0\Task_1_Book.exe
+H:\epam\Task_1_Book\bin\Debug\netcoreapp3.0\Task_1_Book.deps.json
+H:\epam\Task_1_Book\bin\Debug\netcoreapp3.0\Task_1_Book.runtimeconfig.json
+H:\epam\Task_1_Book\bin\Debug\netcoreapp3.0\Task_1_Book.runtimeconfig.dev.json
+H:\epam\Task_1_Book\bin\Debug\netcoreapp3.0\Task_1_Book.dll
+H:\epam\Task_1_Book\bin\Debug\netcoreapp3.0\Task_1_Book.pdb
+H:\epam\Task_1_Book\obj\Debug\netcoreapp3.0\Task_1_Book.csprojAssemblyReference.cache
+H:\epam\Task_1_Book\obj\Debug\netcoreapp3.0\Task_1_Book.AssemblyInfoInputs.cache
+H:\epam\Task_1_Book\obj\Debug\netcoreapp3.0\Task_1_Book.AssemblyInfo.cs
+H:\epam\Task_1_Book\obj\Debug\netcoreapp3.0\Task_1_Book.dll
+H:\epam\Task_1_Book\obj\Debug\netcoreapp3.0\Task_1_Book.pdb

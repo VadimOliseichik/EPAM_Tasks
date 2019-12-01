@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "H:\\epam\\Task_1_PolynomialClass\\Task_1_PolynomialClass.csproj",
+      "projectUniqueName": "H:\\epam\\EPAM_Tasks\\NET.W.2019.Oliseichik.06\\1_Task_and_Tests_PolynomialClass\\Task_1_PolynomialClass\\Task_1_PolynomialClass.csproj",
       "projectName": "Task_1_PolynomialClass",
-      "projectPath": "H:\\epam\\Task_1_PolynomialClass\\Task_1_PolynomialClass.csproj",
+      "projectPath": "H:\\epam\\EPAM_Tasks\\NET.W.2019.Oliseichik.06\\1_Task_and_Tests_PolynomialClass\\Task_1_PolynomialClass\\Task_1_PolynomialClass.csproj",
       "packagesPath": "C:\\Users\\Vadim\\.nuget\\packages\\",
-      "outputPath": "H:\\epam\\Task_1_PolynomialClass\\obj\\",
+      "outputPath": "H:\\epam\\EPAM_Tasks\\NET.W.2019.Oliseichik.06\\1_Task_and_Tests_PolynomialClass\\Task_1_PolynomialClass\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Vadim\\AppData\\Roaming\\NuGet\\NuGet.Config",
