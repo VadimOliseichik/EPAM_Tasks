@@ -1,0 +1,11 @@
+H:\epam\Task_1_Book_Correction\bin\Debug\netcoreapp3.0\Task_1_Book_Correction.exe
+H:\epam\Task_1_Book_Correction\bin\Debug\netcoreapp3.0\Task_1_Book_Correction.deps.json
+H:\epam\Task_1_Book_Correction\bin\Debug\netcoreapp3.0\Task_1_Book_Correction.runtimeconfig.json
+H:\epam\Task_1_Book_Correction\bin\Debug\netcoreapp3.0\Task_1_Book_Correction.runtimeconfig.dev.json
+H:\epam\Task_1_Book_Correction\bin\Debug\netcoreapp3.0\Task_1_Book_Correction.dll
+H:\epam\Task_1_Book_Correction\bin\Debug\netcoreapp3.0\Task_1_Book_Correction.pdb
+H:\epam\Task_1_Book_Correction\obj\Debug\netcoreapp3.0\Task_1_Book_Correction.csprojAssemblyReference.cache
+H:\epam\Task_1_Book_Correction\obj\Debug\netcoreapp3.0\Task_1_Book_Correction.AssemblyInfoInputs.cache
+H:\epam\Task_1_Book_Correction\obj\Debug\netcoreapp3.0\Task_1_Book_Correction.AssemblyInfo.cs
+H:\epam\Task_1_Book_Correction\obj\Debug\netcoreapp3.0\Task_1_Book_Correction.dll
+H:\epam\Task_1_Book_Correction\obj\Debug\netcoreapp3.0\Task_1_Book_Correction.pdb

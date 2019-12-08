@@ -6894,11 +6894,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "H:\\epam\\UnitTestTask_1_GCD\\MSTask_1_GCD.Tests.csproj",
+      "projectUniqueName": "H:\\epam\\EPAM_Tasks\\NET.W.2019.Oliseichik.04\\1_Task_and_Tests_GCD\\UnitTestTask_1_GCD\\MSTask_1_GCD.Tests.csproj",
       "projectName": "MSTask_1_GCD.Tests",
-      "projectPath": "H:\\epam\\UnitTestTask_1_GCD\\MSTask_1_GCD.Tests.csproj",
+      "projectPath": "H:\\epam\\EPAM_Tasks\\NET.W.2019.Oliseichik.04\\1_Task_and_Tests_GCD\\UnitTestTask_1_GCD\\MSTask_1_GCD.Tests.csproj",
       "packagesPath": "C:\\Users\\Vadim\\.nuget\\packages\\",
-      "outputPath": "H:\\epam\\UnitTestTask_1_GCD\\obj\\",
+      "outputPath": "H:\\epam\\EPAM_Tasks\\NET.W.2019.Oliseichik.04\\1_Task_and_Tests_GCD\\UnitTestTask_1_GCD\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Vadim\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -6914,8 +6914,8 @@
       "frameworks": {
         "netcoreapp3.0": {
           "projectReferences": {
-            "H:\\epam\\Task_1_GCD\\Task_1_GCD.csproj": {
-              "projectPath": "H:\\epam\\Task_1_GCD\\Task_1_GCD.csproj"
+            "H:\\epam\\EPAM_Tasks\\NET.W.2019.Oliseichik.04\\1_Task_and_Tests_GCD\\Task_1_GCD\\Task_1_GCD.csproj": {
+              "projectPath": "H:\\epam\\EPAM_Tasks\\NET.W.2019.Oliseichik.04\\1_Task_and_Tests_GCD\\Task_1_GCD\\Task_1_GCD.csproj"
             }
           }
         }

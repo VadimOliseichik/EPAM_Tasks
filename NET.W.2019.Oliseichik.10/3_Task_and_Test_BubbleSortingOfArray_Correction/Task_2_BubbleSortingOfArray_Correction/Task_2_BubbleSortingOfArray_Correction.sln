@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29403.142
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task_2_BubbleSortingOfArray_Correction", "Task_2_BubbleSortingOfArray_Correction.csproj", "{968E12AD-5E51-4EE5-8272-A3851B1CF4B1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task_2_BubbleSortingOfArray_Correction.Tests", "..\Task_2_BubbleSortingOfArray_Correction.Tests\Task_2_BubbleSortingOfArray_Correction.Tests.csproj", "{FAEC2AAD-A45E-422D-800D-6EE09F1765A6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{968E12AD-5E51-4EE5-8272-A3851B1CF4B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{968E12AD-5E51-4EE5-8272-A3851B1CF4B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{968E12AD-5E51-4EE5-8272-A3851B1CF4B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{968E12AD-5E51-4EE5-8272-A3851B1CF4B1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FAEC2AAD-A45E-422D-800D-6EE09F1765A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAEC2AAD-A45E-422D-800D-6EE09F1765A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAEC2AAD-A45E-422D-800D-6EE09F1765A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAEC2AAD-A45E-422D-800D-6EE09F1765A6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A09BA2A9-6D33-4C37-BC58-03F149DD17F6}
+	EndGlobalSection
+EndGlobal

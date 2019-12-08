@@ -1,0 +1,11 @@
+H:\epam\Task_1_GCD_Correction\bin\Debug\netcoreapp3.0\Task_1_GCD_Correction.exe
+H:\epam\Task_1_GCD_Correction\bin\Debug\netcoreapp3.0\Task_1_GCD_Correction.deps.json
+H:\epam\Task_1_GCD_Correction\bin\Debug\netcoreapp3.0\Task_1_GCD_Correction.runtimeconfig.json
+H:\epam\Task_1_GCD_Correction\bin\Debug\netcoreapp3.0\Task_1_GCD_Correction.runtimeconfig.dev.json
+H:\epam\Task_1_GCD_Correction\bin\Debug\netcoreapp3.0\Task_1_GCD_Correction.dll
+H:\epam\Task_1_GCD_Correction\bin\Debug\netcoreapp3.0\Task_1_GCD_Correction.pdb
+H:\epam\Task_1_GCD_Correction\obj\Debug\netcoreapp3.0\Task_1_GCD_Correction.AssemblyInfoInputs.cache
+H:\epam\Task_1_GCD_Correction\obj\Debug\netcoreapp3.0\Task_1_GCD_Correction.AssemblyInfo.cs
+H:\epam\Task_1_GCD_Correction\obj\Debug\netcoreapp3.0\Task_1_GCD_Correction.dll
+H:\epam\Task_1_GCD_Correction\obj\Debug\netcoreapp3.0\Task_1_GCD_Correction.pdb
+H:\epam\Task_1_GCD_Correction\obj\Debug\netcoreapp3.0\Task_1_GCD_Correction.csprojAssemblyReference.cache

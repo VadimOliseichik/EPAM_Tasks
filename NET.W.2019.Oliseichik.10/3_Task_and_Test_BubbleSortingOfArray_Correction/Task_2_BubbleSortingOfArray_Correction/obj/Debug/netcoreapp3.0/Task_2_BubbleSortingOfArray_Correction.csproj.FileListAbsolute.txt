@@ -1,0 +1,11 @@
+H:\epam\Task_2_BubbleSortingOfArray_Correction\bin\Debug\netcoreapp3.0\Task_2_BubbleSortingOfArray_Correction.exe
+H:\epam\Task_2_BubbleSortingOfArray_Correction\bin\Debug\netcoreapp3.0\Task_2_BubbleSortingOfArray_Correction.deps.json
+H:\epam\Task_2_BubbleSortingOfArray_Correction\bin\Debug\netcoreapp3.0\Task_2_BubbleSortingOfArray_Correction.runtimeconfig.json
+H:\epam\Task_2_BubbleSortingOfArray_Correction\bin\Debug\netcoreapp3.0\Task_2_BubbleSortingOfArray_Correction.runtimeconfig.dev.json
+H:\epam\Task_2_BubbleSortingOfArray_Correction\bin\Debug\netcoreapp3.0\Task_2_BubbleSortingOfArray_Correction.dll
+H:\epam\Task_2_BubbleSortingOfArray_Correction\bin\Debug\netcoreapp3.0\Task_2_BubbleSortingOfArray_Correction.pdb
+H:\epam\Task_2_BubbleSortingOfArray_Correction\obj\Debug\netcoreapp3.0\Task_2_BubbleSortingOfArray_Correction.csprojAssemblyReference.cache
+H:\epam\Task_2_BubbleSortingOfArray_Correction\obj\Debug\netcoreapp3.0\Task_2_BubbleSortingOfArray_Correction.AssemblyInfoInputs.cache
+H:\epam\Task_2_BubbleSortingOfArray_Correction\obj\Debug\netcoreapp3.0\Task_2_BubbleSortingOfArray_Correction.AssemblyInfo.cs
+H:\epam\Task_2_BubbleSortingOfArray_Correction\obj\Debug\netcoreapp3.0\Task_2_BubbleSortingOfArray_Correction.dll
+H:\epam\Task_2_BubbleSortingOfArray_Correction\obj\Debug\netcoreapp3.0\Task_2_BubbleSortingOfArray_Correction.pdb

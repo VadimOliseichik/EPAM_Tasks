@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "H:\\epam\\Task_2_BubbleSortingOfANonRectangularIntegerArray\\Task_2_BubbleSortingOfANonRectangularIntegerArray.csproj": {}
+    "H:\\epam\\EPAM_Tasks\\NET.W.2019.Oliseichik.06\\2_Task_and_Tests_BubbleSortingArray\\Task_2_BubbleSortingOfANonRectangularIntegerArray\\Task_2_BubbleSortingOfANonRectangularIntegerArray.csproj": {}
   },
   "projects": {
-    "H:\\epam\\Task_2_BubbleSortingOfANonRectangularIntegerArray\\Task_2_BubbleSortingOfANonRectangularIntegerArray.csproj": {
+    "H:\\epam\\EPAM_Tasks\\NET.W.2019.Oliseichik.06\\2_Task_and_Tests_BubbleSortingArray\\Task_2_BubbleSortingOfANonRectangularIntegerArray\\Task_2_BubbleSortingOfANonRectangularIntegerArray.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "H:\\epam\\Task_2_BubbleSortingOfANonRectangularIntegerArray\\Task_2_BubbleSortingOfANonRectangularIntegerArray.csproj",
+        "projectUniqueName": "H:\\epam\\EPAM_Tasks\\NET.W.2019.Oliseichik.06\\2_Task_and_Tests_BubbleSortingArray\\Task_2_BubbleSortingOfANonRectangularIntegerArray\\Task_2_BubbleSortingOfANonRectangularIntegerArray.csproj",
         "projectName": "Task_2_BubbleSortingOfANonRectangularIntegerArray",
-        "projectPath": "H:\\epam\\Task_2_BubbleSortingOfANonRectangularIntegerArray\\Task_2_BubbleSortingOfANonRectangularIntegerArray.csproj",
+        "projectPath": "H:\\epam\\EPAM_Tasks\\NET.W.2019.Oliseichik.06\\2_Task_and_Tests_BubbleSortingArray\\Task_2_BubbleSortingOfANonRectangularIntegerArray\\Task_2_BubbleSortingOfANonRectangularIntegerArray.csproj",
         "packagesPath": "C:\\Users\\Vadim\\.nuget\\packages\\",
-        "outputPath": "H:\\epam\\Task_2_BubbleSortingOfANonRectangularIntegerArray\\obj\\",
+        "outputPath": "H:\\epam\\EPAM_Tasks\\NET.W.2019.Oliseichik.06\\2_Task_and_Tests_BubbleSortingArray\\Task_2_BubbleSortingOfANonRectangularIntegerArray\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Vadim\\AppData\\Roaming\\NuGet\\NuGet.Config",

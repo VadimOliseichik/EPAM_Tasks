@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "H:\\epam\\Task_1_Book\\Task_1_Book.csproj": {}
+    "H:\\epam\\EPAM_Tasks\\NET.W.2019.Oliseichik.08\\1_Task_Book\\Task_1_Book\\Task_1_Book.csproj": {}
   },
   "projects": {
-    "H:\\epam\\Task_1_Book\\Task_1_Book.csproj": {
+    "H:\\epam\\EPAM_Tasks\\NET.W.2019.Oliseichik.08\\1_Task_Book\\Task_1_Book\\Task_1_Book.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "H:\\epam\\Task_1_Book\\Task_1_Book.csproj",
+        "projectUniqueName": "H:\\epam\\EPAM_Tasks\\NET.W.2019.Oliseichik.08\\1_Task_Book\\Task_1_Book\\Task_1_Book.csproj",
         "projectName": "Task_1_Book",
-        "projectPath": "H:\\epam\\Task_1_Book\\Task_1_Book.csproj",
+        "projectPath": "H:\\epam\\EPAM_Tasks\\NET.W.2019.Oliseichik.08\\1_Task_Book\\Task_1_Book\\Task_1_Book.csproj",
         "packagesPath": "C:\\Users\\Vadim\\.nuget\\packages\\",
-        "outputPath": "H:\\epam\\Task_1_Book\\obj\\",
+        "outputPath": "H:\\epam\\EPAM_Tasks\\NET.W.2019.Oliseichik.08\\1_Task_Book\\Task_1_Book\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Vadim\\AppData\\Roaming\\NuGet\\NuGet.Config",
