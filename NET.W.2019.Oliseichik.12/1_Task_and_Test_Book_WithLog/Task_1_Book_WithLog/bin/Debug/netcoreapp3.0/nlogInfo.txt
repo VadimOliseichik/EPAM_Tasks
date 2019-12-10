@@ -1,0 +1,5 @@
+Program.Main Начинаем запуск приложения
+Program.Main Начинаем запуск приложения
+Program.Main => NLogger.Info Начинаем запуск приложения
+Program.Main => Program.Create => NLogger.Info Создаём новую книгу.
+Program.Main => NLogger.Info Начинаем запуск приложения

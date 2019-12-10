@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "H:\\epam\\Task_1_Book_Correction\\Task_1_Book_Correction.csproj",
+      "projectUniqueName": "H:\\epam\\EPAM_Tasks\\NET.W.2019.Oliseichik.10\\1_Task_and_Test_Book_Correction\\Task_1_Book_Correction\\Task_1_Book_Correction.csproj",
       "projectName": "Task_1_Book_Correction",
-      "projectPath": "H:\\epam\\Task_1_Book_Correction\\Task_1_Book_Correction.csproj",
+      "projectPath": "H:\\epam\\EPAM_Tasks\\NET.W.2019.Oliseichik.10\\1_Task_and_Test_Book_Correction\\Task_1_Book_Correction\\Task_1_Book_Correction.csproj",
       "packagesPath": "C:\\Users\\Vadim\\.nuget\\packages\\",
-      "outputPath": "H:\\epam\\Task_1_Book_Correction\\obj\\",
+      "outputPath": "H:\\epam\\EPAM_Tasks\\NET.W.2019.Oliseichik.10\\1_Task_and_Test_Book_Correction\\Task_1_Book_Correction\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Vadim\\AppData\\Roaming\\NuGet\\NuGet.Config",

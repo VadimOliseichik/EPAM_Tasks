@@ -1,0 +1,11 @@
+H:\epam\Task_2_WatchWithTimer\bin\Debug\netcoreapp3.0\Task_2_WatchWithTimer.exe
+H:\epam\Task_2_WatchWithTimer\bin\Debug\netcoreapp3.0\Task_2_WatchWithTimer.deps.json
+H:\epam\Task_2_WatchWithTimer\bin\Debug\netcoreapp3.0\Task_2_WatchWithTimer.runtimeconfig.json
+H:\epam\Task_2_WatchWithTimer\bin\Debug\netcoreapp3.0\Task_2_WatchWithTimer.runtimeconfig.dev.json
+H:\epam\Task_2_WatchWithTimer\bin\Debug\netcoreapp3.0\Task_2_WatchWithTimer.dll
+H:\epam\Task_2_WatchWithTimer\bin\Debug\netcoreapp3.0\Task_2_WatchWithTimer.pdb
+H:\epam\Task_2_WatchWithTimer\obj\Debug\netcoreapp3.0\Task_2_WatchWithTimer.csprojAssemblyReference.cache
+H:\epam\Task_2_WatchWithTimer\obj\Debug\netcoreapp3.0\Task_2_WatchWithTimer.AssemblyInfoInputs.cache
+H:\epam\Task_2_WatchWithTimer\obj\Debug\netcoreapp3.0\Task_2_WatchWithTimer.AssemblyInfo.cs
+H:\epam\Task_2_WatchWithTimer\obj\Debug\netcoreapp3.0\Task_2_WatchWithTimer.dll
+H:\epam\Task_2_WatchWithTimer\obj\Debug\netcoreapp3.0\Task_2_WatchWithTimer.pdb

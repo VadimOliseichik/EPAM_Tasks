@@ -1,0 +1,14 @@
+H:\epam\Task_1_Book_WithLog\bin\Debug\netcoreapp3.0\Task_1_Book_WithLog.exe
+H:\epam\Task_1_Book_WithLog\bin\Debug\netcoreapp3.0\Task_1_Book_WithLog.deps.json
+H:\epam\Task_1_Book_WithLog\bin\Debug\netcoreapp3.0\Task_1_Book_WithLog.runtimeconfig.json
+H:\epam\Task_1_Book_WithLog\bin\Debug\netcoreapp3.0\Task_1_Book_WithLog.runtimeconfig.dev.json
+H:\epam\Task_1_Book_WithLog\bin\Debug\netcoreapp3.0\Task_1_Book_WithLog.dll
+H:\epam\Task_1_Book_WithLog\bin\Debug\netcoreapp3.0\Task_1_Book_WithLog.pdb
+H:\epam\Task_1_Book_WithLog\obj\Debug\netcoreapp3.0\Task_1_Book_WithLog.csprojAssemblyReference.cache
+H:\epam\Task_1_Book_WithLog\obj\Debug\netcoreapp3.0\Task_1_Book_WithLog.AssemblyInfoInputs.cache
+H:\epam\Task_1_Book_WithLog\obj\Debug\netcoreapp3.0\Task_1_Book_WithLog.AssemblyInfo.cs
+H:\epam\Task_1_Book_WithLog\obj\Debug\netcoreapp3.0\Task_1_Book_WithLog.dll
+H:\epam\Task_1_Book_WithLog\obj\Debug\netcoreapp3.0\Task_1_Book_WithLog.pdb
+H:\epam\Task_1_Book_WithLog\bin\Debug\netcoreapp3.0\NLog.dll
+H:\epam\Task_1_Book_WithLog\obj\Debug\netcoreapp3.0\Task_1_Book_WithLog.csproj.CopyComplete
+H:\epam\Task_1_Book_WithLog\bin\Debug\netcoreapp3.0\NLog.config
