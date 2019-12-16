@@ -1,0 +1,11 @@
+H:\epam\Task_2_GeneralizedMatrixClasses\obj\Debug\netcoreapp3.0\Task_2_GeneralizedMatrixClasses.csprojAssemblyReference.cache
+H:\epam\Task_2_GeneralizedMatrixClasses\obj\Debug\netcoreapp3.0\Task_2_GeneralizedMatrixClasses.AssemblyInfoInputs.cache
+H:\epam\Task_2_GeneralizedMatrixClasses\obj\Debug\netcoreapp3.0\Task_2_GeneralizedMatrixClasses.AssemblyInfo.cs
+H:\epam\Task_2_GeneralizedMatrixClasses\bin\Debug\netcoreapp3.0\Task_2_GeneralizedMatrixClasses.exe
+H:\epam\Task_2_GeneralizedMatrixClasses\bin\Debug\netcoreapp3.0\Task_2_GeneralizedMatrixClasses.deps.json
+H:\epam\Task_2_GeneralizedMatrixClasses\bin\Debug\netcoreapp3.0\Task_2_GeneralizedMatrixClasses.runtimeconfig.json
+H:\epam\Task_2_GeneralizedMatrixClasses\bin\Debug\netcoreapp3.0\Task_2_GeneralizedMatrixClasses.runtimeconfig.dev.json
+H:\epam\Task_2_GeneralizedMatrixClasses\bin\Debug\netcoreapp3.0\Task_2_GeneralizedMatrixClasses.dll
+H:\epam\Task_2_GeneralizedMatrixClasses\bin\Debug\netcoreapp3.0\Task_2_GeneralizedMatrixClasses.pdb
+H:\epam\Task_2_GeneralizedMatrixClasses\obj\Debug\netcoreapp3.0\Task_2_GeneralizedMatrixClasses.dll
+H:\epam\Task_2_GeneralizedMatrixClasses\obj\Debug\netcoreapp3.0\Task_2_GeneralizedMatrixClasses.pdb

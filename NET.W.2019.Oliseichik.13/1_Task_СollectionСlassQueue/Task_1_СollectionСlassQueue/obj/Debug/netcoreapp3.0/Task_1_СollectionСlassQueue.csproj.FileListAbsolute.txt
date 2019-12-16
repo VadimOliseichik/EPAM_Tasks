@@ -1,0 +1,11 @@
+H:\epam\Task_1_СollectionСlassQueue\bin\Debug\netcoreapp3.0\Task_1_СollectionСlassQueue.exe
+H:\epam\Task_1_СollectionСlassQueue\bin\Debug\netcoreapp3.0\Task_1_СollectionСlassQueue.deps.json
+H:\epam\Task_1_СollectionСlassQueue\bin\Debug\netcoreapp3.0\Task_1_СollectionСlassQueue.runtimeconfig.json
+H:\epam\Task_1_СollectionСlassQueue\bin\Debug\netcoreapp3.0\Task_1_СollectionСlassQueue.runtimeconfig.dev.json
+H:\epam\Task_1_СollectionСlassQueue\bin\Debug\netcoreapp3.0\Task_1_СollectionСlassQueue.dll
+H:\epam\Task_1_СollectionСlassQueue\bin\Debug\netcoreapp3.0\Task_1_СollectionСlassQueue.pdb
+H:\epam\Task_1_СollectionСlassQueue\obj\Debug\netcoreapp3.0\Task_1_СollectionСlassQueue.csprojAssemblyReference.cache
+H:\epam\Task_1_СollectionСlassQueue\obj\Debug\netcoreapp3.0\Task_1_СollectionСlassQueue.AssemblyInfoInputs.cache
+H:\epam\Task_1_СollectionСlassQueue\obj\Debug\netcoreapp3.0\Task_1_СollectionСlassQueue.AssemblyInfo.cs
+H:\epam\Task_1_СollectionСlassQueue\obj\Debug\netcoreapp3.0\Task_1_СollectionСlassQueue.dll
+H:\epam\Task_1_СollectionСlassQueue\obj\Debug\netcoreapp3.0\Task_1_СollectionСlassQueue.pdb
