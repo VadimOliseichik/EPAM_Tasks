@@ -1,0 +1,11 @@
+H:\epam\Task_3_GenericClassBinarySearchTree\obj\Debug\netcoreapp3.0\Task_3_GenericClassBinarySearchTree.csprojAssemblyReference.cache
+H:\epam\Task_3_GenericClassBinarySearchTree\obj\Debug\netcoreapp3.0\Task_3_GenericClassBinarySearchTree.AssemblyInfoInputs.cache
+H:\epam\Task_3_GenericClassBinarySearchTree\obj\Debug\netcoreapp3.0\Task_3_GenericClassBinarySearchTree.AssemblyInfo.cs
+H:\epam\Task_3_GenericClassBinarySearchTree\bin\Debug\netcoreapp3.0\Task_3_GenericClassBinarySearchTree.exe
+H:\epam\Task_3_GenericClassBinarySearchTree\bin\Debug\netcoreapp3.0\Task_3_GenericClassBinarySearchTree.deps.json
+H:\epam\Task_3_GenericClassBinarySearchTree\bin\Debug\netcoreapp3.0\Task_3_GenericClassBinarySearchTree.runtimeconfig.json
+H:\epam\Task_3_GenericClassBinarySearchTree\bin\Debug\netcoreapp3.0\Task_3_GenericClassBinarySearchTree.runtimeconfig.dev.json
+H:\epam\Task_3_GenericClassBinarySearchTree\bin\Debug\netcoreapp3.0\Task_3_GenericClassBinarySearchTree.dll
+H:\epam\Task_3_GenericClassBinarySearchTree\bin\Debug\netcoreapp3.0\Task_3_GenericClassBinarySearchTree.pdb
+H:\epam\Task_3_GenericClassBinarySearchTree\obj\Debug\netcoreapp3.0\Task_3_GenericClassBinarySearchTree.dll
+H:\epam\Task_3_GenericClassBinarySearchTree\obj\Debug\netcoreapp3.0\Task_3_GenericClassBinarySearchTree.pdb

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "H:\\epam\\Task_1_Book_WithLog.Tests\\Task_1_Book_WithLog.Tests.csproj": {}
+    "H:\\epam\\EPAM_Tasks\\NET.W.2019.Oliseichik.12\\1_Task_and_Test_Book_WithLog\\Task_1_Book_WithLog.Tests\\Task_1_Book_WithLog.Tests.csproj": {}
   },
   "projects": {
-    "H:\\epam\\Task_1_Book_WithLog.Tests\\Task_1_Book_WithLog.Tests.csproj": {
+    "H:\\epam\\EPAM_Tasks\\NET.W.2019.Oliseichik.12\\1_Task_and_Test_Book_WithLog\\Task_1_Book_WithLog.Tests\\Task_1_Book_WithLog.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "H:\\epam\\Task_1_Book_WithLog.Tests\\Task_1_Book_WithLog.Tests.csproj",
+        "projectUniqueName": "H:\\epam\\EPAM_Tasks\\NET.W.2019.Oliseichik.12\\1_Task_and_Test_Book_WithLog\\Task_1_Book_WithLog.Tests\\Task_1_Book_WithLog.Tests.csproj",
         "projectName": "Task_1_Book_WithLog.Tests",
-        "projectPath": "H:\\epam\\Task_1_Book_WithLog.Tests\\Task_1_Book_WithLog.Tests.csproj",
+        "projectPath": "H:\\epam\\EPAM_Tasks\\NET.W.2019.Oliseichik.12\\1_Task_and_Test_Book_WithLog\\Task_1_Book_WithLog.Tests\\Task_1_Book_WithLog.Tests.csproj",
         "packagesPath": "C:\\Users\\Vadim\\.nuget\\packages\\",
-        "outputPath": "H:\\epam\\Task_1_Book_WithLog.Tests\\obj\\",
+        "outputPath": "H:\\epam\\EPAM_Tasks\\NET.W.2019.Oliseichik.12\\1_Task_and_Test_Book_WithLog\\Task_1_Book_WithLog.Tests\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Vadim\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -27,8 +27,8 @@
         "frameworks": {
           "netcoreapp3.0": {
             "projectReferences": {
-              "H:\\epam\\Task_1_Book_WithLog\\Task_1_Book_WithLog.csproj": {
-                "projectPath": "H:\\epam\\Task_1_Book_WithLog\\Task_1_Book_WithLog.csproj"
+              "H:\\epam\\EPAM_Tasks\\NET.W.2019.Oliseichik.12\\1_Task_and_Test_Book_WithLog\\Task_1_Book_WithLog\\Task_1_Book_WithLog.csproj": {
+                "projectPath": "H:\\epam\\EPAM_Tasks\\NET.W.2019.Oliseichik.12\\1_Task_and_Test_Book_WithLog\\Task_1_Book_WithLog\\Task_1_Book_WithLog.csproj"
               }
             }
           }
@@ -74,14 +74,14 @@
         }
       }
     },
-    "H:\\epam\\Task_1_Book_WithLog\\Task_1_Book_WithLog.csproj": {
+    "H:\\epam\\EPAM_Tasks\\NET.W.2019.Oliseichik.12\\1_Task_and_Test_Book_WithLog\\Task_1_Book_WithLog\\Task_1_Book_WithLog.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "H:\\epam\\Task_1_Book_WithLog\\Task_1_Book_WithLog.csproj",
+        "projectUniqueName": "H:\\epam\\EPAM_Tasks\\NET.W.2019.Oliseichik.12\\1_Task_and_Test_Book_WithLog\\Task_1_Book_WithLog\\Task_1_Book_WithLog.csproj",
         "projectName": "Task_1_Book_WithLog",
-        "projectPath": "H:\\epam\\Task_1_Book_WithLog\\Task_1_Book_WithLog.csproj",
+        "projectPath": "H:\\epam\\EPAM_Tasks\\NET.W.2019.Oliseichik.12\\1_Task_and_Test_Book_WithLog\\Task_1_Book_WithLog\\Task_1_Book_WithLog.csproj",
         "packagesPath": "C:\\Users\\Vadim\\.nuget\\packages\\",
-        "outputPath": "H:\\epam\\Task_1_Book_WithLog\\obj\\",
+        "outputPath": "H:\\epam\\EPAM_Tasks\\NET.W.2019.Oliseichik.12\\1_Task_and_Test_Book_WithLog\\Task_1_Book_WithLog\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Vadim\\AppData\\Roaming\\NuGet\\NuGet.Config",
