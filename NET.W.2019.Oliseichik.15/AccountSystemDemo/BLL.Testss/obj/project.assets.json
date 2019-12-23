@@ -5519,11 +5519,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "H:\\epam\\AccountSystemDemo\\BLL.Testss\\BLL.Tests.csproj",
+      "projectUniqueName": "H:\\epam\\EPAM_Tasks\\NET.W.2019.Oliseichik.15\\AccountSystemDemo\\BLL.Testss\\BLL.Tests.csproj",
       "projectName": "BLL.Tests",
-      "projectPath": "H:\\epam\\AccountSystemDemo\\BLL.Testss\\BLL.Tests.csproj",
+      "projectPath": "H:\\epam\\EPAM_Tasks\\NET.W.2019.Oliseichik.15\\AccountSystemDemo\\BLL.Testss\\BLL.Tests.csproj",
       "packagesPath": "C:\\Users\\Vadim\\.nuget\\packages\\",
-      "outputPath": "H:\\epam\\AccountSystemDemo\\BLL.Testss\\obj\\",
+      "outputPath": "H:\\epam\\EPAM_Tasks\\NET.W.2019.Oliseichik.15\\AccountSystemDemo\\BLL.Testss\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Vadim\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -5539,26 +5539,26 @@
       "frameworks": {
         "netcoreapp3.0": {
           "projectReferences": {
-            "H:\\epam\\AccountSystemDemo\\BLL.Interface\\BLL.Interface.csproj": {
-              "projectPath": "H:\\epam\\AccountSystemDemo\\BLL.Interface\\BLL.Interface.csproj"
+            "H:\\epam\\EPAM_Tasks\\NET.W.2019.Oliseichik.15\\AccountSystemDemo\\BLL.Interface\\BLL.Interface.csproj": {
+              "projectPath": "H:\\epam\\EPAM_Tasks\\NET.W.2019.Oliseichik.15\\AccountSystemDemo\\BLL.Interface\\BLL.Interface.csproj"
             },
-            "H:\\epam\\AccountSystemDemo\\BLL\\BLL.csproj": {
-              "projectPath": "H:\\epam\\AccountSystemDemo\\BLL\\BLL.csproj"
+            "H:\\epam\\EPAM_Tasks\\NET.W.2019.Oliseichik.15\\AccountSystemDemo\\BLL\\BLL.csproj": {
+              "projectPath": "H:\\epam\\EPAM_Tasks\\NET.W.2019.Oliseichik.15\\AccountSystemDemo\\BLL\\BLL.csproj"
             },
-            "H:\\epam\\AccountSystemDemo\\ConsolePL\\ConsolePL.csproj": {
-              "projectPath": "H:\\epam\\AccountSystemDemo\\ConsolePL\\ConsolePL.csproj"
+            "H:\\epam\\EPAM_Tasks\\NET.W.2019.Oliseichik.15\\AccountSystemDemo\\ConsolePL\\ConsolePL.csproj": {
+              "projectPath": "H:\\epam\\EPAM_Tasks\\NET.W.2019.Oliseichik.15\\AccountSystemDemo\\ConsolePL\\ConsolePL.csproj"
             },
-            "H:\\epam\\AccountSystemDemo\\DAL.Fake\\DAL.Fake.csproj": {
-              "projectPath": "H:\\epam\\AccountSystemDemo\\DAL.Fake\\DAL.Fake.csproj"
+            "H:\\epam\\EPAM_Tasks\\NET.W.2019.Oliseichik.15\\AccountSystemDemo\\DAL.Fake\\DAL.Fake.csproj": {
+              "projectPath": "H:\\epam\\EPAM_Tasks\\NET.W.2019.Oliseichik.15\\AccountSystemDemo\\DAL.Fake\\DAL.Fake.csproj"
             },
-            "H:\\epam\\AccountSystemDemo\\DAL.Interface\\DAL.Interface.csproj": {
-              "projectPath": "H:\\epam\\AccountSystemDemo\\DAL.Interface\\DAL.Interface.csproj"
+            "H:\\epam\\EPAM_Tasks\\NET.W.2019.Oliseichik.15\\AccountSystemDemo\\DAL.Interface\\DAL.Interface.csproj": {
+              "projectPath": "H:\\epam\\EPAM_Tasks\\NET.W.2019.Oliseichik.15\\AccountSystemDemo\\DAL.Interface\\DAL.Interface.csproj"
             },
-            "H:\\epam\\AccountSystemDemo\\DAL\\DAL.csproj": {
-              "projectPath": "H:\\epam\\AccountSystemDemo\\DAL\\DAL.csproj"
+            "H:\\epam\\EPAM_Tasks\\NET.W.2019.Oliseichik.15\\AccountSystemDemo\\DAL\\DAL.csproj": {
+              "projectPath": "H:\\epam\\EPAM_Tasks\\NET.W.2019.Oliseichik.15\\AccountSystemDemo\\DAL\\DAL.csproj"
             },
-            "H:\\epam\\AccountSystemDemo\\DependencyResolver\\DependencyResolver.csproj": {
-              "projectPath": "H:\\epam\\AccountSystemDemo\\DependencyResolver\\DependencyResolver.csproj"
+            "H:\\epam\\EPAM_Tasks\\NET.W.2019.Oliseichik.15\\AccountSystemDemo\\DependencyResolver\\DependencyResolver.csproj": {
+              "projectPath": "H:\\epam\\EPAM_Tasks\\NET.W.2019.Oliseichik.15\\AccountSystemDemo\\DependencyResolver\\DependencyResolver.csproj"
             }
           }
         }
