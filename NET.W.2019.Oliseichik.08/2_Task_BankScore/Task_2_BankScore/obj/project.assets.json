@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "H:\\epam\\Task_2_BankScore\\Task_2_BankScore.csproj",
+      "projectUniqueName": "H:\\epam\\EPAM_Tasks\\NET.W.2019.Oliseichik.08\\2_Task_BankScore\\Task_2_BankScore\\Task_2_BankScore.csproj",
       "projectName": "Task_2_BankScore",
-      "projectPath": "H:\\epam\\Task_2_BankScore\\Task_2_BankScore.csproj",
+      "projectPath": "H:\\epam\\EPAM_Tasks\\NET.W.2019.Oliseichik.08\\2_Task_BankScore\\Task_2_BankScore\\Task_2_BankScore.csproj",
       "packagesPath": "C:\\Users\\Vadim\\.nuget\\packages\\",
-      "outputPath": "H:\\epam\\Task_2_BankScore\\obj\\",
+      "outputPath": "H:\\epam\\EPAM_Tasks\\NET.W.2019.Oliseichik.08\\2_Task_BankScore\\Task_2_BankScore\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Vadim\\AppData\\Roaming\\NuGet\\NuGet.Config",

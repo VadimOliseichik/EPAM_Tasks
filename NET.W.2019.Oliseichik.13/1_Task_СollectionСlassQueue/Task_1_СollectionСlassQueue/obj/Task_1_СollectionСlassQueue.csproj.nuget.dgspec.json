@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "H:\\epam\\Task_1_СollectionСlassQueue\\Task_1_СollectionСlassQueue.csproj": {}
+    "H:\\epam\\EPAM_Tasks\\NET.W.2019.Oliseichik.13\\1_Task_СollectionСlassQueue\\Task_1_СollectionСlassQueue\\Task_1_СollectionСlassQueue.csproj": {}
   },
   "projects": {
-    "H:\\epam\\Task_1_СollectionСlassQueue\\Task_1_СollectionСlassQueue.csproj": {
+    "H:\\epam\\EPAM_Tasks\\NET.W.2019.Oliseichik.13\\1_Task_СollectionСlassQueue\\Task_1_СollectionСlassQueue\\Task_1_СollectionСlassQueue.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "H:\\epam\\Task_1_СollectionСlassQueue\\Task_1_СollectionСlassQueue.csproj",
+        "projectUniqueName": "H:\\epam\\EPAM_Tasks\\NET.W.2019.Oliseichik.13\\1_Task_СollectionСlassQueue\\Task_1_СollectionСlassQueue\\Task_1_СollectionСlassQueue.csproj",
         "projectName": "Task_1_СollectionСlassQueue",
-        "projectPath": "H:\\epam\\Task_1_СollectionСlassQueue\\Task_1_СollectionСlassQueue.csproj",
+        "projectPath": "H:\\epam\\EPAM_Tasks\\NET.W.2019.Oliseichik.13\\1_Task_СollectionСlassQueue\\Task_1_СollectionСlassQueue\\Task_1_СollectionСlassQueue.csproj",
         "packagesPath": "C:\\Users\\Vadim\\.nuget\\packages\\",
-        "outputPath": "H:\\epam\\Task_1_СollectionСlassQueue\\obj\\",
+        "outputPath": "H:\\epam\\EPAM_Tasks\\NET.W.2019.Oliseichik.13\\1_Task_СollectionСlassQueue\\Task_1_СollectionСlassQueue\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Vadim\\AppData\\Roaming\\NuGet\\NuGet.Config",

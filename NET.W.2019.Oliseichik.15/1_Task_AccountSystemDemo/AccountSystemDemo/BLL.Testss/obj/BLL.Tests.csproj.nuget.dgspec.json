@@ -1,0 +1,267 @@
+{
+  "format": 1,
+  "restore": {
+    "H:\\epam\\AccountSystemDemo\\BLL.Testss\\BLL.Tests.csproj": {}
+  },
+  "projects": {
+    "H:\\epam\\AccountSystemDemo\\BLL.Interface\\BLL.Interface.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "H:\\epam\\AccountSystemDemo\\BLL.Interface\\BLL.Interface.csproj",
+        "projectName": "BLL.Interface",
+        "projectPath": "H:\\epam\\AccountSystemDemo\\BLL.Interface\\BLL.Interface.csproj"
+      },
+      "frameworks": {
+        "net461": {}
+      }
+    },
+    "H:\\epam\\AccountSystemDemo\\BLL.Testss\\BLL.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "H:\\epam\\AccountSystemDemo\\BLL.Testss\\BLL.Tests.csproj",
+        "projectName": "BLL.Tests",
+        "projectPath": "H:\\epam\\AccountSystemDemo\\BLL.Testss\\BLL.Tests.csproj",
+        "packagesPath": "C:\\Users\\Vadim\\.nuget\\packages\\",
+        "outputPath": "H:\\epam\\AccountSystemDemo\\BLL.Testss\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Vadim\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {
+              "H:\\epam\\AccountSystemDemo\\BLL.Interface\\BLL.Interface.csproj": {
+                "projectPath": "H:\\epam\\AccountSystemDemo\\BLL.Interface\\BLL.Interface.csproj"
+              },
+              "H:\\epam\\AccountSystemDemo\\BLL\\BLL.csproj": {
+                "projectPath": "H:\\epam\\AccountSystemDemo\\BLL\\BLL.csproj"
+              },
+              "H:\\epam\\AccountSystemDemo\\ConsolePL\\ConsolePL.csproj": {
+                "projectPath": "H:\\epam\\AccountSystemDemo\\ConsolePL\\ConsolePL.csproj"
+              },
+              "H:\\epam\\AccountSystemDemo\\DAL.Fake\\DAL.Fake.csproj": {
+                "projectPath": "H:\\epam\\AccountSystemDemo\\DAL.Fake\\DAL.Fake.csproj"
+              },
+              "H:\\epam\\AccountSystemDemo\\DAL.Interface\\DAL.Interface.csproj": {
+                "projectPath": "H:\\epam\\AccountSystemDemo\\DAL.Interface\\DAL.Interface.csproj"
+              },
+              "H:\\epam\\AccountSystemDemo\\DAL\\DAL.csproj": {
+                "projectPath": "H:\\epam\\AccountSystemDemo\\DAL\\DAL.csproj"
+              },
+              "H:\\epam\\AccountSystemDemo\\DependencyResolver\\DependencyResolver.csproj": {
+                "projectPath": "H:\\epam\\AccountSystemDemo\\DependencyResolver\\DependencyResolver.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.2.0, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.13.1, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[3.13.0, )"
+            },
+            "nunit": {
+              "target": "Package",
+              "version": "[3.12.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "H:\\epam\\AccountSystemDemo\\BLL\\BLL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "H:\\epam\\AccountSystemDemo\\BLL\\BLL.csproj",
+        "projectName": "BLL",
+        "projectPath": "H:\\epam\\AccountSystemDemo\\BLL\\BLL.csproj",
+        "frameworks": {
+          "net461": {
+            "projectReferences": {
+              "H:\\epam\\AccountSystemDemo\\BLL.Interface\\BLL.Interface.csproj": {
+                "projectPath": "H:\\epam\\AccountSystemDemo\\BLL.Interface\\BLL.Interface.csproj"
+              },
+              "H:\\epam\\AccountSystemDemo\\DAL.Fake\\DAL.Fake.csproj": {
+                "projectPath": "H:\\epam\\AccountSystemDemo\\DAL.Fake\\DAL.Fake.csproj"
+              },
+              "H:\\epam\\AccountSystemDemo\\DAL.Interface\\DAL.Interface.csproj": {
+                "projectPath": "H:\\epam\\AccountSystemDemo\\DAL.Interface\\DAL.Interface.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net461": {}
+      }
+    },
+    "H:\\epam\\AccountSystemDemo\\ConsolePL\\ConsolePL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "H:\\epam\\AccountSystemDemo\\ConsolePL\\ConsolePL.csproj",
+        "projectName": "ConsolePL",
+        "projectPath": "H:\\epam\\AccountSystemDemo\\ConsolePL\\ConsolePL.csproj",
+        "frameworks": {
+          "net461": {
+            "projectReferences": {
+              "H:\\epam\\AccountSystemDemo\\BLL.Interface\\BLL.Interface.csproj": {
+                "projectPath": "H:\\epam\\AccountSystemDemo\\BLL.Interface\\BLL.Interface.csproj"
+              },
+              "H:\\epam\\AccountSystemDemo\\BLL\\BLL.csproj": {
+                "projectPath": "H:\\epam\\AccountSystemDemo\\BLL\\BLL.csproj"
+              },
+              "H:\\epam\\AccountSystemDemo\\DAL.Fake\\DAL.Fake.csproj": {
+                "projectPath": "H:\\epam\\AccountSystemDemo\\DAL.Fake\\DAL.Fake.csproj"
+              },
+              "H:\\epam\\AccountSystemDemo\\DAL.Interface\\DAL.Interface.csproj": {
+                "projectPath": "H:\\epam\\AccountSystemDemo\\DAL.Interface\\DAL.Interface.csproj"
+              },
+              "H:\\epam\\AccountSystemDemo\\DAL\\DAL.csproj": {
+                "projectPath": "H:\\epam\\AccountSystemDemo\\DAL\\DAL.csproj"
+              },
+              "H:\\epam\\AccountSystemDemo\\DependencyResolver\\DependencyResolver.csproj": {
+                "projectPath": "H:\\epam\\AccountSystemDemo\\DependencyResolver\\DependencyResolver.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net461": {}
+      }
+    },
+    "H:\\epam\\AccountSystemDemo\\DAL.Fake\\DAL.Fake.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "H:\\epam\\AccountSystemDemo\\DAL.Fake\\DAL.Fake.csproj",
+        "projectName": "DAL.Fake",
+        "projectPath": "H:\\epam\\AccountSystemDemo\\DAL.Fake\\DAL.Fake.csproj",
+        "frameworks": {
+          "net461": {
+            "projectReferences": {
+              "H:\\epam\\AccountSystemDemo\\BLL.Interface\\BLL.Interface.csproj": {
+                "projectPath": "H:\\epam\\AccountSystemDemo\\BLL.Interface\\BLL.Interface.csproj"
+              },
+              "H:\\epam\\AccountSystemDemo\\DAL.Interface\\DAL.Interface.csproj": {
+                "projectPath": "H:\\epam\\AccountSystemDemo\\DAL.Interface\\DAL.Interface.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net461": {}
+      }
+    },
+    "H:\\epam\\AccountSystemDemo\\DAL.Interface\\DAL.Interface.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "H:\\epam\\AccountSystemDemo\\DAL.Interface\\DAL.Interface.csproj",
+        "projectName": "DAL.Interface",
+        "projectPath": "H:\\epam\\AccountSystemDemo\\DAL.Interface\\DAL.Interface.csproj",
+        "frameworks": {
+          "net461": {
+            "projectReferences": {
+              "H:\\epam\\AccountSystemDemo\\BLL.Interface\\BLL.Interface.csproj": {
+                "projectPath": "H:\\epam\\AccountSystemDemo\\BLL.Interface\\BLL.Interface.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net461": {}
+      }
+    },
+    "H:\\epam\\AccountSystemDemo\\DAL\\DAL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "H:\\epam\\AccountSystemDemo\\DAL\\DAL.csproj",
+        "projectName": "DAL",
+        "projectPath": "H:\\epam\\AccountSystemDemo\\DAL\\DAL.csproj",
+        "frameworks": {
+          "net461": {
+            "projectReferences": {
+              "H:\\epam\\AccountSystemDemo\\DAL.Interface\\DAL.Interface.csproj": {
+                "projectPath": "H:\\epam\\AccountSystemDemo\\DAL.Interface\\DAL.Interface.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net461": {}
+      }
+    },
+    "H:\\epam\\AccountSystemDemo\\DependencyResolver\\DependencyResolver.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "H:\\epam\\AccountSystemDemo\\DependencyResolver\\DependencyResolver.csproj",
+        "projectName": "DependencyResolver",
+        "projectPath": "H:\\epam\\AccountSystemDemo\\DependencyResolver\\DependencyResolver.csproj",
+        "frameworks": {
+          "net461": {
+            "projectReferences": {
+              "H:\\epam\\AccountSystemDemo\\BLL.Interface\\BLL.Interface.csproj": {
+                "projectPath": "H:\\epam\\AccountSystemDemo\\BLL.Interface\\BLL.Interface.csproj"
+              },
+              "H:\\epam\\AccountSystemDemo\\BLL\\BLL.csproj": {
+                "projectPath": "H:\\epam\\AccountSystemDemo\\BLL\\BLL.csproj"
+              },
+              "H:\\epam\\AccountSystemDemo\\DAL.Fake\\DAL.Fake.csproj": {
+                "projectPath": "H:\\epam\\AccountSystemDemo\\DAL.Fake\\DAL.Fake.csproj"
+              },
+              "H:\\epam\\AccountSystemDemo\\DAL.Interface\\DAL.Interface.csproj": {
+                "projectPath": "H:\\epam\\AccountSystemDemo\\DAL.Interface\\DAL.Interface.csproj"
+              },
+              "H:\\epam\\AccountSystemDemo\\DAL\\DAL.csproj": {
+                "projectPath": "H:\\epam\\AccountSystemDemo\\DAL\\DAL.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net461": {}
+      }
+    }
+  }
+}

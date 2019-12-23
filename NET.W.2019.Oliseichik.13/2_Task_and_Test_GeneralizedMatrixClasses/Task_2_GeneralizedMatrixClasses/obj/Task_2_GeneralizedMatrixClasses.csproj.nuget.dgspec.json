@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "H:\\epam\\Task_2_GeneralizedMatrixClasses\\Task_2_GeneralizedMatrixClasses.csproj": {}
+    "H:\\epam\\EPAM_Tasks\\NET.W.2019.Oliseichik.13\\2_Task_and_Test_GeneralizedMatrixClasses\\Task_2_GeneralizedMatrixClasses\\Task_2_GeneralizedMatrixClasses.csproj": {}
   },
   "projects": {
-    "H:\\epam\\Task_2_GeneralizedMatrixClasses\\Task_2_GeneralizedMatrixClasses.csproj": {
+    "H:\\epam\\EPAM_Tasks\\NET.W.2019.Oliseichik.13\\2_Task_and_Test_GeneralizedMatrixClasses\\Task_2_GeneralizedMatrixClasses\\Task_2_GeneralizedMatrixClasses.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "H:\\epam\\Task_2_GeneralizedMatrixClasses\\Task_2_GeneralizedMatrixClasses.csproj",
+        "projectUniqueName": "H:\\epam\\EPAM_Tasks\\NET.W.2019.Oliseichik.13\\2_Task_and_Test_GeneralizedMatrixClasses\\Task_2_GeneralizedMatrixClasses\\Task_2_GeneralizedMatrixClasses.csproj",
         "projectName": "Task_2_GeneralizedMatrixClasses",
-        "projectPath": "H:\\epam\\Task_2_GeneralizedMatrixClasses\\Task_2_GeneralizedMatrixClasses.csproj",
+        "projectPath": "H:\\epam\\EPAM_Tasks\\NET.W.2019.Oliseichik.13\\2_Task_and_Test_GeneralizedMatrixClasses\\Task_2_GeneralizedMatrixClasses\\Task_2_GeneralizedMatrixClasses.csproj",
         "packagesPath": "C:\\Users\\Vadim\\.nuget\\packages\\",
-        "outputPath": "H:\\epam\\Task_2_GeneralizedMatrixClasses\\obj\\",
+        "outputPath": "H:\\epam\\EPAM_Tasks\\NET.W.2019.Oliseichik.13\\2_Task_and_Test_GeneralizedMatrixClasses\\Task_2_GeneralizedMatrixClasses\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Vadim\\AppData\\Roaming\\NuGet\\NuGet.Config",

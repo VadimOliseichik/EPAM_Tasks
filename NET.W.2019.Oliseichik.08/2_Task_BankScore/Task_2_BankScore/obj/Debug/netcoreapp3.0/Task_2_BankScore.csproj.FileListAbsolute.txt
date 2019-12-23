@@ -9,3 +9,14 @@ H:\epam\Task_2_BankScore\obj\Debug\netcoreapp3.0\Task_2_BankScore.AssemblyInfoIn
 H:\epam\Task_2_BankScore\obj\Debug\netcoreapp3.0\Task_2_BankScore.AssemblyInfo.cs
 H:\epam\Task_2_BankScore\obj\Debug\netcoreapp3.0\Task_2_BankScore.dll
 H:\epam\Task_2_BankScore\obj\Debug\netcoreapp3.0\Task_2_BankScore.pdb
+H:\epam\EPAM_Tasks\NET.W.2019.Oliseichik.08\2_Task_BankScore\Task_2_BankScore\bin\Debug\netcoreapp3.0\Task_2_BankScore.exe
+H:\epam\EPAM_Tasks\NET.W.2019.Oliseichik.08\2_Task_BankScore\Task_2_BankScore\bin\Debug\netcoreapp3.0\Task_2_BankScore.deps.json
+H:\epam\EPAM_Tasks\NET.W.2019.Oliseichik.08\2_Task_BankScore\Task_2_BankScore\bin\Debug\netcoreapp3.0\Task_2_BankScore.runtimeconfig.json
+H:\epam\EPAM_Tasks\NET.W.2019.Oliseichik.08\2_Task_BankScore\Task_2_BankScore\bin\Debug\netcoreapp3.0\Task_2_BankScore.runtimeconfig.dev.json
+H:\epam\EPAM_Tasks\NET.W.2019.Oliseichik.08\2_Task_BankScore\Task_2_BankScore\bin\Debug\netcoreapp3.0\Task_2_BankScore.dll
+H:\epam\EPAM_Tasks\NET.W.2019.Oliseichik.08\2_Task_BankScore\Task_2_BankScore\bin\Debug\netcoreapp3.0\Task_2_BankScore.pdb
+H:\epam\EPAM_Tasks\NET.W.2019.Oliseichik.08\2_Task_BankScore\Task_2_BankScore\obj\Debug\netcoreapp3.0\Task_2_BankScore.csprojAssemblyReference.cache
+H:\epam\EPAM_Tasks\NET.W.2019.Oliseichik.08\2_Task_BankScore\Task_2_BankScore\obj\Debug\netcoreapp3.0\Task_2_BankScore.AssemblyInfoInputs.cache
+H:\epam\EPAM_Tasks\NET.W.2019.Oliseichik.08\2_Task_BankScore\Task_2_BankScore\obj\Debug\netcoreapp3.0\Task_2_BankScore.AssemblyInfo.cs
+H:\epam\EPAM_Tasks\NET.W.2019.Oliseichik.08\2_Task_BankScore\Task_2_BankScore\obj\Debug\netcoreapp3.0\Task_2_BankScore.dll
+H:\epam\EPAM_Tasks\NET.W.2019.Oliseichik.08\2_Task_BankScore\Task_2_BankScore\obj\Debug\netcoreapp3.0\Task_2_BankScore.pdb

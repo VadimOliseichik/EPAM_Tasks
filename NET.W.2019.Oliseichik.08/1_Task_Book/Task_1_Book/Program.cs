@@ -491,7 +491,7 @@ namespace Task_1_Book
             while (checkInput);
 
             decimal price = 0.0M;
-            Regex regularExpressionSalary = new Regex(@"^[\d]{1,}[.][\d]{1,}$");
+            Regex regularExpressionSalary = new Regex(@"^[(][\d]{1,}[.][\d]{1,}[)]$");
             do
             {
                 Console.Write("Price (00.00)$: ");
