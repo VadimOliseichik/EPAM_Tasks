@@ -1510,6 +1510,8 @@
       "DAL/1.0.0": {
         "type": "project",
         "dependencies": {
+          "BLL": "1.0.0",
+          "BLL.Interface": "1.0.0",
           "DAL.Interface": "1.0.0"
         },
         "compile": {

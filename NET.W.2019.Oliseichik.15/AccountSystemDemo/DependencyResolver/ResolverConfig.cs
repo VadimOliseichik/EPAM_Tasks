@@ -3,6 +3,7 @@ using BLL.Interface.Interfaces;
 using BLL.ServiceImplementation;
 using DAL.Fake.Repositories;
 using DAL.Interface.Interfaces;
+using DAL.Repositories;
 // using DAL.Repositories;
 using Ninject;
 
@@ -16,7 +17,7 @@ namespace DependencyResolver
 
             kernel.Bind<IStorage>().To<FakeStorage>();
 
-            //kernel.Bind<IRepository>().To<AccountBinaryRepository>().WithConstructorArgument("test.bin");
+            kernel.Bind<IStorage>().To<BinaryScoreRepository>().WithConstructorArgument("test.bin");
 
             kernel.Bind<IGenerateScoreIdService>().To<GenerateScoreId>().InSingletonScope();
 

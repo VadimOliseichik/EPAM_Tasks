@@ -220,6 +220,12 @@
         "frameworks": {
           "net461": {
             "projectReferences": {
+              "H:\\epam\\EPAM_Tasks\\NET.W.2019.Oliseichik.15\\AccountSystemDemo\\BLL.Interface\\BLL.Interface.csproj": {
+                "projectPath": "H:\\epam\\EPAM_Tasks\\NET.W.2019.Oliseichik.15\\AccountSystemDemo\\BLL.Interface\\BLL.Interface.csproj"
+              },
+              "H:\\epam\\EPAM_Tasks\\NET.W.2019.Oliseichik.15\\AccountSystemDemo\\BLL\\BLL.csproj": {
+                "projectPath": "H:\\epam\\EPAM_Tasks\\NET.W.2019.Oliseichik.15\\AccountSystemDemo\\BLL\\BLL.csproj"
+              },
               "H:\\epam\\EPAM_Tasks\\NET.W.2019.Oliseichik.15\\AccountSystemDemo\\DAL.Interface\\DAL.Interface.csproj": {
                 "projectPath": "H:\\epam\\EPAM_Tasks\\NET.W.2019.Oliseichik.15\\AccountSystemDemo\\DAL.Interface\\DAL.Interface.csproj"
               }
