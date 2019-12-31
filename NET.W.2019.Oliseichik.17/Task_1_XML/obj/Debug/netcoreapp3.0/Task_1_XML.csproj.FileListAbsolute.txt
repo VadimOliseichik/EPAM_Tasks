@@ -1,0 +1,11 @@
+H:\epam\Task_1_XML\bin\Debug\netcoreapp3.0\Task_1_XML.exe
+H:\epam\Task_1_XML\bin\Debug\netcoreapp3.0\Task_1_XML.deps.json
+H:\epam\Task_1_XML\bin\Debug\netcoreapp3.0\Task_1_XML.runtimeconfig.json
+H:\epam\Task_1_XML\bin\Debug\netcoreapp3.0\Task_1_XML.runtimeconfig.dev.json
+H:\epam\Task_1_XML\bin\Debug\netcoreapp3.0\Task_1_XML.dll
+H:\epam\Task_1_XML\bin\Debug\netcoreapp3.0\Task_1_XML.pdb
+H:\epam\Task_1_XML\obj\Debug\netcoreapp3.0\Task_1_XML.csprojAssemblyReference.cache
+H:\epam\Task_1_XML\obj\Debug\netcoreapp3.0\Task_1_XML.AssemblyInfoInputs.cache
+H:\epam\Task_1_XML\obj\Debug\netcoreapp3.0\Task_1_XML.AssemblyInfo.cs
+H:\epam\Task_1_XML\obj\Debug\netcoreapp3.0\Task_1_XML.dll
+H:\epam\Task_1_XML\obj\Debug\netcoreapp3.0\Task_1_XML.pdb
